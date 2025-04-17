@@ -1,0 +1,2 @@
+INSERT INTO users (id, name, email, preferences) VALUES (1, 'John Doe', 'john.doe@example.com', 'preference1');
+INSERT INTO users (id, name, email, preferences) VALUES (2, 'Jane Smith', 'jane.smith@example.com', 'preference2');
