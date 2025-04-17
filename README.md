@@ -146,7 +146,3 @@ This will use the configuration specified in the `pom.xml` file to deploy the ap
 ## Usage
 
 You can use tools like Postman or curl to interact with the API endpoints. Make sure to set the appropriate headers for content type as `application/json` when sending requests.
-
-## License
-
-This project is licensed under the MIT License.
